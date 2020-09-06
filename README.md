@@ -14,7 +14,7 @@
 Before you do the below steps, ensure you have logged into Tribot on your account through the normal login process so that your session can be set as the below will bypass the login screen and go based on the most recent session.
 
 1. Download the Tribot-RECODERS jar
-2. Navigate to C:\Users\YOUR_USERNAME_HERE\AppData\Roaming\.tribot\dependancies
+2. Navigate to C:\Users\YOUR_USERNAME_HERE\AppData\Roaming\\.tribot\dependancies
 3. Copy in the Tribot_RECODERS jar you downloaded
 
 4. On your desktop, create a text file with the following:
